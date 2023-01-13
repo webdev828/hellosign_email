@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/hello_sign_automation.iml" filepath="$PROJECT_DIR$/.idea/hello_sign_automation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sales_fully/.idea/sales_fully.iml" filepath="$PROJECT_DIR$/../sales_fully/.idea/sales_fully.iml" />
+    </modules>
+  </component>
+</project>

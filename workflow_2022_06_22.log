@@ -1,0 +1,24 @@
+2022-06-22 07:05:38,200 - root - INFO - CSV file faeaf6fe-5514-4106-80c3-4961b2c458f4.csv created with users ['user,w3b0wl@yahoo.com,', 'user,monti4099@aol.com,']
+2022-06-22 07:08:46,800 - root - ERROR - Message: 
+Stacktrace:
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.jsm:183:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.jsm:395:5
+element.find/</<@chrome://remote/content/marionette/element.js:300:16
+
+2022-06-22 07:08:46,801 - root - INFO - CSV file E:\Works\22-07\scraping\hellosign_email\workflow_2022_06_22\faeaf6fe-5514-4106-80c3-4961b2c458f4.csv processed and moved to err0r
+2022-06-22 07:18:50,391 - root - INFO - CSV file 4dbbb2c7-02e4-434a-b80c-1a4164d1d0d6.csv created with users ['user,w3b0wl@yahoo.com,', 'user,monti4099@aol.com,']
+2022-06-22 07:22:43,125 - root - ERROR - Message: 
+Stacktrace:
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.jsm:183:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.jsm:395:5
+element.find/</<@chrome://remote/content/marionette/element.js:300:16
+
+2022-06-22 07:22:43,125 - root - INFO - CSV file E:\Works\22-07\scraping\hellosign_email\workflow_2022_06_22\4dbbb2c7-02e4-434a-b80c-1a4164d1d0d6.csv processed and moved to err0r
+2022-06-22 07:22:53,830 - root - INFO - CSV file eca59212-71fc-4b9e-9b05-71a2771403ea.csv created with users ['user,w3b0wl@yahoo.com,', 'user,monti4099@aol.com,']
+2022-06-22 07:25:57,235 - root - ERROR - Message: 
+Stacktrace:
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.jsm:183:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.jsm:395:5
+element.find/</<@chrome://remote/content/marionette/element.js:300:16
+
+2022-06-22 07:25:57,237 - root - INFO - CSV file E:\Works\22-07\scraping\hellosign_email\workflow_2022_06_22\eca59212-71fc-4b9e-9b05-71a2771403ea.csv processed and moved to err0r
